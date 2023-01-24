@@ -1,5 +1,5 @@
 {
-  "name": "sap-workzone-content-package-sample",
+  "name": "company-department-packagename",
   "description": "Template for a content package",
   "version": "1.0.0",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "https://github.com:SAP-samples/workzone-content-package-templates.git",
     "directory": "content-package"
   },
-  "author": "SAP SE",
+  "author": "Evelyn Jessurun",
   "license": "ISC",
   "devDependencies": {
     "sap-workzone-cpkg-tools": "git+https://git@github.com/SAP-samples/workzone-content-package-templates.git"
