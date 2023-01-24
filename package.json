@@ -1,5 +1,5 @@
 {
-  "name": "sap-workzone-cpkg-templates",
+  "name": "company-department-packagename",
   "version": "1.0.0",
   "description": "Sample project structure for a workflow artifact that will be included into a content package",
   "repository": {
@@ -15,6 +15,6 @@
     "bestzip": "2.2.1",
     "@ui5/cli": "2.14.14"
   },
-  "author": "SAP SE",
+  "author": "Evelyn Jessurun",
   "license": "ISC"
 }
